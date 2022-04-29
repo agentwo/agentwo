@@ -1,4 +1,1 @@
-I am Agent Wo cyber security expert. 
-I have very advanced knowledge about linux.
-I know bash and python languages at an advanced level.
-For contact agentwo@protonmail.com
+I'm a Turkey based Linux System Admin, Cyber Security Researcher, Solidity Developer, Blockchain Developer And Python Developer I manage large servers, i am smart contract developer, i can write blockchain with python
